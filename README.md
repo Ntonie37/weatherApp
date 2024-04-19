@@ -1,3 +1,5 @@
+HOW TO RUN THIS PROJECT
+
 Clone the Repository from GitHub:
 Open your terminal or command prompt.
 Navigate to the directory where you want to store the project.
