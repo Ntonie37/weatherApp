@@ -8,12 +8,14 @@ bash
 Copy code
 git clone <repository_URL>
 Replace <repository_URL> with the actual URL of the GitHub repository.
+
 Navigate to the Project Directory:
 Once the cloning is complete, navigate to the project directory.
 bash
 Copy code
 cd <project_directory>
 Replace <project_directory> with the name of the directory created during cloning.
+
 Install Dependencies:
 Run the following command to install the project dependencies using npm or yarn.
 Copy code
@@ -21,6 +23,7 @@ npm install
 or
 Copy code
 yarn install
+
 Set up API Integration:
 If the React Native app requires API integration, you need to configure it. This typically involves:
 Identifying the endpoints of the API you want to use.
